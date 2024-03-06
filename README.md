@@ -21,11 +21,8 @@
     cd repository
     ```
 
-3. [Instructions for installing and setting up the project]
 
-## Usage
 
-1. [Instructions for using the project]
 
 ## Contributing
 
